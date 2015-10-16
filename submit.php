@@ -13,7 +13,7 @@ if(!$_POST['fname'])
 //check if lname is empty
 if(!$_POST['lname'])
 {
-    die(msg(0,"<p>Please choose a gender</p>"));
+    die(msg(0,"<p>Please enter your lastname</p>"));
 }
 
 //Check if gender is checked
