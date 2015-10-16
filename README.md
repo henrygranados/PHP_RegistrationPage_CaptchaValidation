@@ -1,2 +1,2 @@
 # PHP_RegistrationPage_CaptchaValidation
-This is a PHP Registration form that has a customized Captcha validator built in javascript. After submiting user's information, all the information gets display on a table(Boostrap table) in a new window.
+This is a PHP Registration form that has a customized Captcha validator built in Javascript. After submiting user's information, all the information gets display on a table (Boostrap table) in a new window. 
