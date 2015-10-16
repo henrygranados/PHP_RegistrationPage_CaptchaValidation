@@ -18,7 +18,7 @@ border-radius: 10px;
 </style>
 </head>
 <body>
-	<br/>
+<br/>
 <form class = "container" action="submit.php" method="post" onsubmit="return checkform();">
 <center><h3 style = "color:#2E8518;font-family:arial;">Register</h3></center>
 <label class="control-label ng-binding">Name:</label><input type='text' id="fname" name="fname" style = "width:250px;" class="form-control ng-scope ng-pristine ng-valid"/>
